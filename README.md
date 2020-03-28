@@ -2,9 +2,9 @@
 
 All CP related repositories
 
-## 1.   https://github.com/Ashishgup1/Competitive-Coding
+### 1.   https://github.com/Ashishgup1/Competitive-Coding
 
-## 2.   https://github.com/sahilbansal17/Get_Better_at_CP_in_2_Months
+#### 2.   https://github.com/sahilbansal17/Get_Better_at_CP_in_2_Months
 
 ## 3.   https://github.com/TheAlgorithms/Java
 
