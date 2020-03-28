@@ -40,4 +40,4 @@ All CP related repositories
 
 - [ ] 18.  [CS 97SI: Introduction to Programming Contests --- Stanford ACM-ICPC Chapter](https://github.com/jaehyunp/stanfordacm)
 
-- [ ] 19.  [CPP_Competitive_Programming_Sublime_Snippets](https://github.com/MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets) --- including snippets for CodeJam, Codechef, Codeforces
+- [ ] 19.  [Competitive_Programming_Sublime_Snippets -- C++](https://github.com/MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets) --- including snippets for CodeJam, Codechef, Codeforces
