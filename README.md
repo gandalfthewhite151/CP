@@ -34,10 +34,10 @@ All CP related repositories
 
 - [ ] 15.  [How to go about talking while in coding round of interview](https://github.com/sahilbansal17/CodeChef-Trainer-Assignment)
 
-- [ ] 16.  https://github.com/sahilbansal17/A2-Online-Judge-Ladders
+- [ ] 16.  [A2 Online Judge Ladders solutions](https://github.com/sahilbansal17/A2-Online-Judge-Ladders) by Sahil Bansal 2016-20
 
-##### 17.  https://github.com/sahilbansal17/CSL351-Assignments
+- [ ] 17.  [DAA Assignments IIT-Jammu](https://github.com/sahilbansal17/CSL351-Assignments)
 
-##### 18.  https://github.com/jaehyunp/stanfordacm
+- [ ] 18.  [CS 97SI: Introduction to Programming Contests --- Stanford ACM-ICPC Chapter](https://github.com/jaehyunp/stanfordacm)
 
-##### 19.  https://github.com/MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets
+- [ ] 19.  [CPP_Competitive_Programming_Sublime_Snippets](https://github.com/MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets) --- including snippets for CodeJam, Codechef, Codeforces
