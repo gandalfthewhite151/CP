@@ -18,7 +18,7 @@ All CP related repositories
 
 - [ ] 8.   [A few interview coding problems by sahil bansal 2016-20](https://github.com/sahilbansal17/Coding-Interview-Problems)
 
-- [ ] 9.   [Ultimate list] of resoures for getting started with CP(https://github.com/lnishan/awesome-competitive-programming)
+- [ ] 9.   [Ultimate list](https://github.com/lnishan/awesome-competitive-programming) of resoures for getting started with CP
 
 - [ ] ##### 10.   https://github.com/sahilbansal17/junior-training-sheet
 
