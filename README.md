@@ -4,7 +4,7 @@ All CP related repositories
 
 - [ ] 1.   [Ultimate list](https://github.com/lnishan/awesome-competitive-programming) of resoures for getting started with CP
 
-- [ ] * [Ashish Gupta Library](https://github.com/Ashishgup1/Competitive-Coding)
+- [ ] ***** [Ashish Gupta Library](https://github.com/Ashishgup1/Competitive-Coding)
 
 - [ ] 2.   [Sahil Bansal 2016-20 Get better at CP in 2 months](https://github.com/sahilbansal17/Get_Better_at_CP_in_2_Months)
 
@@ -22,7 +22,7 @@ All CP related repositories
 
 - [ ] 9.   [Ultimate list](https://github.com/lnishan/awesome-competitive-programming) of resoures for getting started with CP
 
-- [ ] ##### 10.   https://github.com/sahilbansal17/junior-training-sheet
+- [ ] 10.   [Codeforces Junior Training Sheet](https://github.com/sahilbansal17/junior-training-sheet)
 
 ##### 11.   https://github.com/Novice-Paradigm/Cplusplus
 
