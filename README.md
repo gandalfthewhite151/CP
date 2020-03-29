@@ -30,7 +30,7 @@ All CP related repositories
 
 - [ ] 13.  IIT-Jammu [Placement Resources](https://github.com/coding-club-iit-jammu/Coding-Interview-Preparation)
 
-- [ ] 14.  [Few algo implementation by tourist(???)](https://github.com/the-tourist/algo)
+- [ ] 14.  [Few algo implementation](https://github.com/the-tourist/algo) by "tourist"
 
 - [ ] 15.  [How to go about talking while in coding round of interview](https://github.com/sahilbansal17/CodeChef-Trainer-Assignment)
 
