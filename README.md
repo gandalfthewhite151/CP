@@ -26,7 +26,7 @@ All CP related repositories
 
 - [ ] 11.   [C++ novice resources](https://github.com/Novice-Paradigm/Cplusplus)
 
-- [ ] 12.  [max basic algorithms covered](https://github.com/xtaci/algorithms)
+- [ ] 12.  [max basic algorithms implemented by xtaci](https://github.com/xtaci/algorithms)
 
 - [ ] 13.  IIT-Jammu [Placement Resources](https://github.com/coding-club-iit-jammu/Coding-Interview-Preparation)
 
