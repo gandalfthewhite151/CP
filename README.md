@@ -41,3 +41,27 @@ All CP related repositories
 - [ ] 18.  [CS 97SI: Introduction to Programming Contests --- Stanford ACM-ICPC Chapter](https://github.com/jaehyunp/stanfordacm)
 
 - [ ] 19.  [Competitive_Programming_Sublime_Snippets -- C++](https://github.com/MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets) --- including snippets for CodeJam, Codechef, Codeforces
+***
+**Cloned Repositories**
+
+- [CP:Submissions list](https://docs.google.com/spreadsheets/d/1S1uyGOpNt5ZXU_ekg18xrp-5k272A_LzIjvNuxbXXwY/edit?usp=sharing)
+- [My submissions](https://github.com/gandalfthewhite151/CP-My-Submissions)
+- [CLRS solutions](https://github.com/gzc/CLRS)
+- [Awesome CP](https://github.com/lnishan/awesome-competitive-programming)
+- [Awesome CP-2](https://github.com/fffaraz/awesome-cpp)
+- [Get_Better_CP_in_2_Months](https://github.com/sahilbansal17/Get_Better_at_CP_in_2_Months)
+- [CP-Algorithms-in-Java](https://github.com/gandalfthewhite151/CP-Algorithms-in-Java)
+- [Few-algo-implementations](https://github.com/sahilbansal17/Competitive_Coding)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [sort.h](https://github.com/swenson/sort)
+- [Algorithms-implementations-and-resources](https://github.com/VAR-solutions/Algorithms)
+- [easy-medium-level-interview-problems](https://github.com/sahilbansal17/Coding-Interview-Problems)
+- [junior-training-sheet-solutions](https://github.com/sahilbansal17/junior-training-sheet)
+- [A-to-Z-of-CPP](https://github.com/Novice-Paradigm/Cplusplus)
+- [algorithm-implementation-by-xtaci](https://github.com/gandalfthewhite151/CP-algorithm-implementation-by-xtaci)
+- [IIT-Jammu_Coding-Interview-Preparation](https://github.com/coding-club-iit-jammu/Coding-Interview-Preparation)
+- [Algo-implementation-by-the-tourist](https://github.com/the-tourist/algo)
+- [CodeChef-Trainer-Assignment--How to go about talking while in coding round of interview](https://github.com/sahilbansal17/CodeChef-Trainer-Assignment)
+- [A2-Online-Judge-Ladders-solutions](https://github.com/sahilbansal17/A2-Online-Judge-Ladders)
+- [DAA-Assignments-IIT-Jammu](https://github.com/sahilbansal17/CSL351-Assignments)
+- [Stanford-ACM-ICPC-Chapter](https://github.com/jaehyunp/stanfordacm)
