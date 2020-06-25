@@ -47,7 +47,7 @@ All CP related repositories
 - [CP:Submissions list](https://docs.google.com/spreadsheets/d/1S1uyGOpNt5ZXU_ekg18xrp-5k272A_LzIjvNuxbXXwY/edit?usp=sharing)
 - [My submissions](https://github.com/gandalfthewhite151/CP-My-Submissions)
 - [CLRS solutions](https://github.com/gzc/CLRS)
-- [Awesome CP](https://github.com/lnishan/awesome-competitive-programming)
+- [Awesome CPP](https://github.com/lnishan/awesome-competitive-programming)
 - [Awesome CP-2](https://github.com/fffaraz/awesome-cpp)
 - [Get_Better_CP_in_2_Months](https://github.com/sahilbansal17/Get_Better_at_CP_in_2_Months)
 - [CP-Algorithms-in-Java](https://github.com/gandalfthewhite151/CP-Algorithms-in-Java)
